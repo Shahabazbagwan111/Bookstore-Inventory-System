@@ -1,0 +1,2 @@
+# Bookstore-Inventory-System
+Bookstore is the place where the people will be able to get the books of their choice at reasonable price. There can be various kinds of books available at the book store. But if it is the giant bookstore then the management of it will be very difficult. So the bookstore inventory system application will help in maintaining all these details at one stretch. The bookstore inventory system will help in maintaining the details of the books available,employee details and many other details
